@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "player_img": "https://i.ibb.co.com/VtJbBz6/shakib.jpg",
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "price": 1000000,
+      "category": "All-Rounder",
+      "main_category": ["Left-Handed Bat","Left-Handed Spin Bowl"]
+    },
+    {
+      "id": 2,
+      "player_img": "https://i.ibb.co.com/n0fCSSM/tamim.webp",
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "price": 950000,
+      "category": "Batsman",
+      "main_category": ["Left-Handed Bat" , "N/A"]
+    },
+    {
+      "id": 3,
+      "player_img": "https://i.ibb.co.com/fY1R1Rv/Mushfiqur-Rahim.webp",
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "price": 900000,
+      "category": "Batsman",
+      "main_category": ["Right-Handed Bat","Wicket Keeper"]
+    },
+    {
+      "id": 4,
+      "player_img": "https://i.ibb.co.com/d5g4L52/mahmadullah.webp",
+      "name": "Mahmudullah Riyad",
+      "country": "Bangladesh",
+      "price": 850000,
+      "category": "All-Rounder",
+      "main_category": ["Right-Handed Bat","Right-Handed Spin Bowl"]
+    },
+    {
+      "id": 5,
+      "player_img": "https://i.ibb.co.com/MyTFChV/Mustafizur.webp",
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "price": 800000,
+      "category": "Bowler",
+      "main_category": ["Right-Handed Fast Bowl","Right-Handed Bat"]
+    },
+    {
+      "id": 6,
+      "player_img": "https://i.ibb.co.com/3m8kTn9/mash.jpg",
+      "name": "Mashrafe Mortaza",
+      "country": "Bangladesh",
+      "price": 750000,
+      "category": "Bowler",
+      "main_category": ["Right-Handed Fast Bowl","Right-Handed Bat"]
+    },
+    {
+      "id": 7,
+      "player_img": "https://i.ibb.co.com/zrCWVF7/soumya.webp",
+      "name": "Soumya Sarkar",
+      "country": "Bangladesh",
+      "price": 700000,
+      "category": "All-Rounder",
+      "main_category": ["Left-Handed Bat", "Right-handed-Medium Bowl"]
+    },
+    {
+      "id": 8,
+      "player_img": "https://i.ibb.co.com/vDp8hht/liton.jpg",
+      "name": "Liton Das",
+      "country": "Bangladesh",
+      "price": 650000,
+      "category": "Batsman",
+      "main_category": ["Right-Handed Bat" , "Wicket Keeper"]
+    },
+    {
+      "id": 9,
+      "player_img": "https://i.ibb.co.com/fQ4F3wX/Mehidy.jpg",
+      "name": "Mehidy Hasan Miraz",
+      "country": "Bangladesh",
+      "price": 600000,
+      "category": "All-Rounder",
+      "main_category": ["Right-Handed Spin Bowl","Right-Handed Bat"]
+    },
+    {
+      "id": 10,
+      "player_img": "https://i.ibb.co.com/zsYN4rc/taskin3.jpg",
+      "name": "Taskin Ahmed",
+      "country": "Bangladesh",
+      "price": 550000,
+      "category": "Bowler",
+      "main_category": ["Right-Handed Fast Bowl", "Left-Handed Bat"]
+    },
+    {
+      "id": 11,
+      "player_img": "https://i.ibb.co.com/WP9XxyM/saifuddin.jpg",
+      "name": "Mohammad Saifuddin",
+      "country": "Bangladesh",
+      "price": 500000,
+      "category": "All-Rounder",
+      "main_category": ["Right-Handed Pace Bowl" , "Right-Handed Bat"]
+    }
+  ]
